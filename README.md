@@ -1,6 +1,6 @@
 # get_next_line
 
-## My hive(42) school get_next_line project [BONUSES] <-- ez ._.
+## My hive (42) school get_next_line project [BONUSES] <-- ez ._.
 
 Yeah, we had to have dublicate files for the bonuses, thats stupid I know.
 
